@@ -1,0 +1,6 @@
+Tokens:['error', 'err_902', 'database', 'connection', 'pool', 'exhausted', 'in', 'production', 'server']
+Tokens:['database', 'backup', 'process', 'completed', 'successfully', 'without', 'any', 'error']
+Tokens:['error', 'err_404', 'user', 'dashboard', 'failed', 'to', 'load', 'due', 'to', 'network', 'error']
+Tokens:['critical', 'production', 'alert', 'database', 'cpu', 'utilization', 'reached', '98', 'percent']
+Clean Text:database error production
+Results:[{'doc_id': 0, 'text': 'Error ERR_902: Database connection pool exhausted in production server.', 'score': 1.4222218803826734}, {'doc_id': 3, 'text': 'Critical production alert: Database CPU utilization reached 98 percent.', 'score': 1.0615592662632594}, {'doc_id': 1, 'text': 'Database backup process completed successfully without any error.', 'score': 0.7550933793657432}]
