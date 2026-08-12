@@ -1,0 +1,1 @@
+Output:[{'doc_id': 0, 'text': 'The server crashed because the database connection pool was exhausted.', 'score': 0.4947}, {'doc_id': 2, 'text': 'Network connection timeout while trying to query primary cluster.', 'score': 0.3277}, {'doc_id': 1, 'text': 'Baking a cake requires flour, sugar, eggs, and butter.', 'score': 0.0512}]
