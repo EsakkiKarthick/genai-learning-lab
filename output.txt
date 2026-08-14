@@ -1,0 +1,24 @@
+Clean Text:err_502_db_conn worker09
+[
+    {'doc_id': 0, 'text': 'Critical System Error: Code ERR_502_DB_CONN occurred on cluster node worker-09 during query execution.', 'rrf_score': 0.032786}, 
+    {'doc_id': 5, 'text': 'Error ERR-502-DB-CONN: Database connection pool exhausted.', 'rrf_score': 0.016129}, 
+    {'doc_id': 3, 'text': 'To resolve connection drops on worker nodes, restart the background query daemon and clear the database cache.', 'rrf_score': 0.015873}, 
+    {'doc_id': 1, 'text': 'The primary database server ran out of memory, causing all active client connections to drop immediately.', 'rrf_score': 0.015625}, 
+    {'doc_id': 4, 'text': 'High memory consumption caused the primary analytical storage node to terminate unexpectedly.', 'rrf_score': 0.015385}
+]
+Clean Text:server out of ram causing client disconnects
+[
+    {'doc_id': 1, 'text': 'The primary database server ran out of memory, causing all active client connections to drop immediately.', 'rrf_score': 0.032786}, 
+    {'doc_id': 2, 'text': 'How to configure connection parameters for the database pool in production server settings.', 'rrf_score': 0.031281}, 
+    {'doc_id': 3, 'text': 'To resolve connection drops on worker nodes, restart the background query daemon and clear the database cache.', 'rrf_score': 0.016129}, 
+    {'doc_id': 4, 'text': 'High memory consumption caused the primary analytical storage node to terminate unexpectedly.', 'rrf_score': 0.015873}, 
+    {'doc_id': 5, 'text': 'Error ERR-502-DB-CONN: Database connection pool exhausted.', 'rrf_score': 0.015625}
+]
+Clean Text:err_502_db_conn connection drops
+[
+    {'doc_id': 3, 'text': 'To resolve connection drops on worker nodes, restart the background query daemon and clear the database cache.', 'rrf_score': 0.032266}, 
+    {'doc_id': 5, 'text': 'Error ERR-502-DB-CONN: Database connection pool exhausted.', 'rrf_score': 0.032266}, 
+    {'doc_id': 0, 'text': 'Critical System Error: Code ERR_502_DB_CONN occurred on cluster node worker-09 during query execution.', 'rrf_score': 0.031754000000000004}, 
+    {'doc_id': 2, 'text': 'How to configure connection parameters for the database pool in production server settings.', 'rrf_score': 0.03101}, 
+    {'doc_id': 1, 'text': 'The primary database server ran out of memory, causing all active client connections to drop immediately.', 'rrf_score': 0.016129}
+]
