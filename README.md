@@ -3,7 +3,7 @@
 Overview
 --------
 
-Hybrid search combines lexical (term-based) and semantic (vector-based) retrieval to leverage the strengths of both: precise keyword matches from BM25-like systems and concept-level matching from dense vector search. The hybrid approach returns a merged ranking that improves recall for semanntically relevant documents while preserving precision on exact matches.
+Hybrid search combines lexical (term-based) and semantic (vector-based) retrieval to leverage the strengths of both: precise keyword matches from BM25-like systems and concept-level matching from dense vector search. The hybrid approach returns a merged ranking that improves recall for semantically relevant documents while preserving precision on exact matches.
 
 Why hybrid search is required
 ---------------------------
