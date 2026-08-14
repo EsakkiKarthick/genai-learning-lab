@@ -25,7 +25,7 @@ Robust Rank Fusion (RRF) — under the hood
 
 RRF is a simple but effective rank-based ensembling method. For each document, given its rank $r_i$ in each ranking source $i$, RRF computes:
 
-$$\text{RRF\_score}(d) = \sum_{i=1}^m \frac{1}{k + r_i(d)}$$
+$$\text{RRF}_{\text{score}}(d) = \sum_{i=1}^m \frac{1}{k + r_i(d)}$$
 
 where:
 - $m$ is the number of ranking sources (e.g., BM25 and semantic)
