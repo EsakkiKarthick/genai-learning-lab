@@ -1,0 +1,64 @@
+1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval.
+Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM.
+Work-from-home requests should be submitted at least one working day in
+advance through the employee portal.
+Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems.
+
+
+2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment.
+The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements.
+Equipment requests must be approved by the employee's manager and IT
+department.
+Employees are responsible for keeping company equipment secure while working
+remotely.
+
+
+3 Office Attendance Policy
+Employees are expected to work from the assigned office location at least
+3 days per week unless they have an approved remote-work arrangement.
+Employees must follow their team's scheduled office attendance days.
+Repeated failure to attend the office without approval may result in
+managerial action.
+
+
+4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection.
+The minimum recommended internet speed is 50 Mbps.
+Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems.
+The company does not generally reimburse employees for their personal
+internet connection.
+
+
+5 Remote Work Security Policy
+Employees working remotely must connect to company systems using the
+company-approved VPN.
+Multi-factor authentication must be enabled for all corporate accounts.
+Employees must not share company credentials with family members or other
+individuals.
+Sensitive company information must not be stored on personal devices unless
+explicitly approved by the security team.
+
+
+6 Leave Policy
+Employees should submit planned leave requests through the employee portal.
+Leave requests should normally be submitted at least 3 working days before
+the planned leave date.
+Emergency leave may be requested without advance notice.
+Managers are responsible for approving or rejecting leave requests.
+
+
+7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections.
+However, employees in certain approved roles may be eligible for a monthly
+internet allowance.
+Eligibility depends on job role, employment agreement, and manager approval.
+Employees should contact HR to determine whether they qualify for the
+internet allowance.

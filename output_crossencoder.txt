@@ -1,0 +1,443 @@
+Query:How many days per week can an employee work from home?
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "score": 0.7125
+    },
+    {
+        "doc_id": 2,
+        "text": "3 Office Attendance Policy\nEmployees are expected to work from the assigned office location at least\n3 days per week unless they have an approved remote-work arrangement. Employees must follow their team's scheduled office attendance days. Repeated failure to attend the office without approval may result in\nmanagerial action.",
+        "score": 0.508
+    },
+    {
+        "doc_id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "score": 0.4413
+    },
+    {
+        "doc_id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "score": 0.3627
+    },
+    {
+        "doc_id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "score": 0.3599
+    }
+]
+
+
+Reranking Index 0:1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM. Work-from-home requests should be submitted at least one working day in
+advance through the employee portal. Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems. 
+Encoder Score:0.9999
+
+
+Reranking Index 1:3 Office Attendance Policy
+Employees are expected to work from the assigned office location at least
+3 days per week unless they have an approved remote-work arrangement. Employees must follow their team's scheduled office attendance days. Repeated failure to attend the office without approval may result in
+managerial action. 
+Encoder Score:0.9839
+
+
+Reranking Index 2:4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems. The company does not generally reimburse employees for their personal
+internet connection. 
+Encoder Score:0.0891
+
+
+Reranking Index 3:7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections. However, employees in certain approved roles may be eligible for a monthly
+internet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the
+internet allowance. 
+Encoder Score:0.0011
+
+
+Reranking Index 4:2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements. Equipment requests must be approved by the employee's manager and IT
+department. Employees are responsible for keeping company equipment secure while working
+remotely. 
+Encoder Score:0.0138
+
+Results Count:5
+
+Reranked Output:[
+    {
+        "id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "rerank_score": 0.9999483337982091
+    },
+    {
+        "id": 2,
+        "text": "3 Office Attendance Policy\nEmployees are expected to work from the assigned office location at least\n3 days per week unless they have an approved remote-work arrangement. Employees must follow their team's scheduled office attendance days. Repeated failure to attend the office without approval may result in\nmanagerial action.",
+        "rerank_score": 0.9839239609328354
+    },
+    {
+        "id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "rerank_score": 0.08912689220307622
+    }
+]
+
+Query:Who must approve an employee's work-from-home request??
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "score": 0.5641
+    },
+    {
+        "doc_id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "score": 0.5265
+    },
+    {
+        "doc_id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "score": 0.4608
+    },
+    {
+        "doc_id": 4,
+        "text": "5 Remote Work Security Policy\nEmployees working remotely must connect to company systems using the\ncompany-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other\nindividuals. Sensitive company information must not be stored on personal devices unless\nexplicitly approved by the security team.",
+        "score": 0.4533
+    },
+    {
+        "doc_id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "score": 0.4456
+    }
+]
+
+
+Reranking Index 0:1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM. Work-from-home requests should be submitted at least one working day in
+advance through the employee portal. Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems. 
+Encoder Score:0.9996
+
+
+Reranking Index 1:2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements. Equipment requests must be approved by the employee's manager and IT
+department. Employees are responsible for keeping company equipment secure while working
+remotely. 
+Encoder Score:0.9993
+
+
+Reranking Index 2:4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems. The company does not generally reimburse employees for their personal
+internet connection. 
+Encoder Score:0.272
+
+
+Reranking Index 3:5 Remote Work Security Policy
+Employees working remotely must connect to company systems using the
+company-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other
+individuals. Sensitive company information must not be stored on personal devices unless
+explicitly approved by the security team. 
+Encoder Score:0.114
+
+
+Reranking Index 4:7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections. However, employees in certain approved roles may be eligible for a monthly
+internet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the
+internet allowance. 
+Encoder Score:0.273
+
+Results Count:5
+
+Reranked Output:[
+    {
+        "id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "rerank_score": 0.9996279593517132
+    },
+    {
+        "id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "rerank_score": 0.9992921006844456
+    },
+    {
+        "id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "rerank_score": 0.2729861921042836
+    }
+]
+
+Query:Does the company pay for my home Wi-Fi when I work remotely?
+Search Results:[
+    {
+        "doc_id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "score": 0.5752
+    },
+    {
+        "doc_id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "score": 0.5317
+    },
+    {
+        "doc_id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "score": 0.5059
+    },
+    {
+        "doc_id": 4,
+        "text": "5 Remote Work Security Policy\nEmployees working remotely must connect to company systems using the\ncompany-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other\nindividuals. Sensitive company information must not be stored on personal devices unless\nexplicitly approved by the security team.",
+        "score": 0.4072
+    },
+    {
+        "doc_id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "score": 0.3816
+    }
+]
+
+
+Reranking Index 0:4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems. The company does not generally reimburse employees for their personal
+internet connection. 
+Encoder Score:0.9977
+
+
+Reranking Index 1:7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections. However, employees in certain approved roles may be eligible for a monthly
+internet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the
+internet allowance. 
+Encoder Score:0.2077
+
+
+Reranking Index 2:2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements. Equipment requests must be approved by the employee's manager and IT
+department. Employees are responsible for keeping company equipment secure while working
+remotely. 
+Encoder Score:0.7076
+
+
+Reranking Index 3:5 Remote Work Security Policy
+Employees working remotely must connect to company systems using the
+company-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other
+individuals. Sensitive company information must not be stored on personal devices unless
+explicitly approved by the security team. 
+Encoder Score:0.097
+
+
+Reranking Index 4:1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM. Work-from-home requests should be submitted at least one working day in
+advance through the employee portal. Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems. 
+Encoder Score:0.0118
+
+Results Count:5
+
+Reranked Output:[
+    {
+        "id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "rerank_score": 0.9976566658711737
+    },
+    {
+        "id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "rerank_score": 0.7076101958253731
+    },
+    {
+        "id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "rerank_score": 0.20766612399866755
+    }
+]
+
+Query:Can I get money from the company for my internet connection?
+Search Results:[
+    {
+        "doc_id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "score": 0.5649
+    },
+    {
+        "doc_id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "score": 0.4825
+    },
+    {
+        "doc_id": 4,
+        "text": "5 Remote Work Security Policy\nEmployees working remotely must connect to company systems using the\ncompany-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other\nindividuals. Sensitive company information must not be stored on personal devices unless\nexplicitly approved by the security team.",
+        "score": 0.3084
+    },
+    {
+        "doc_id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "score": 0.2921
+    },
+    {
+        "doc_id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "score": 0.2458
+    }
+]
+
+
+Reranking Index 0:7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections. However, employees in certain approved roles may be eligible for a monthly
+internet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the
+internet allowance. 
+Encoder Score:0.1727
+
+
+Reranking Index 1:4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems. The company does not generally reimburse employees for their personal
+internet connection. 
+Encoder Score:0.1643
+
+
+Reranking Index 2:5 Remote Work Security Policy
+Employees working remotely must connect to company systems using the
+company-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other
+individuals. Sensitive company information must not be stored on personal devices unless
+explicitly approved by the security team. 
+Encoder Score:0.0
+
+
+Reranking Index 3:1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM. Work-from-home requests should be submitted at least one working day in
+advance through the employee portal. Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems. 
+Encoder Score:0.0004
+
+
+Reranking Index 4:2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements. Equipment requests must be approved by the employee's manager and IT
+department. Employees are responsible for keeping company equipment secure while working
+remotely. 
+Encoder Score:0.0
+
+Results Count:5
+
+Reranked Output:[
+    {
+        "id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "rerank_score": 0.172743417703432
+    },
+    {
+        "id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "rerank_score": 0.1642536458156872
+    },
+    {
+        "id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "rerank_score": 0.0003732942205233625
+    }
+]
+
+Query:Does the company always reimburse home internet expenses?
+Search Results:[
+    {
+        "doc_id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "score": 0.703
+    },
+    {
+        "doc_id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "score": 0.4744
+    },
+    {
+        "doc_id": 1,
+        "text": "2 Remote Work Equipment Policy\nEmployees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based\non job requirements. Equipment requests must be approved by the employee's manager and IT\ndepartment. Employees are responsible for keeping company equipment secure while working\nremotely.",
+        "score": 0.262
+    },
+    {
+        "doc_id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "score": 0.2355
+    },
+    {
+        "doc_id": 4,
+        "text": "5 Remote Work Security Policy\nEmployees working remotely must connect to company systems using the\ncompany-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other\nindividuals. Sensitive company information must not be stored on personal devices unless\nexplicitly approved by the security team.",
+        "score": 0.1822
+    }
+]
+
+
+Reranking Index 0:7 Employee Internet Reimbursement Policy
+The company does not normally reimburse employees for home internet
+connections. However, employees in certain approved roles may be eligible for a monthly
+internet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the
+internet allowance. 
+Encoder Score:0.9995
+
+
+Reranking Index 1:4 Work From Home Internet Requirements
+Employees working remotely are responsible for maintaining a stable internet
+connection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when
+accessing company systems. The company does not generally reimburse employees for their personal
+internet connection. 
+Encoder Score:0.9798
+
+
+Reranking Index 2:2 Remote Work Equipment Policy
+Employees who regularly work from home may request company-provided equipment. The company may provide a laptop, monitor, keyboard, mouse, and headset based
+on job requirements. Equipment requests must be approved by the employee's manager and IT
+department. Employees are responsible for keeping company equipment secure while working
+remotely. 
+Encoder Score:0.0001
+
+
+Reranking Index 3:1 Employee Work From Home Policy
+Employees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to
+6:00 PM. Work-from-home requests should be submitted at least one working day in
+advance through the employee portal. Employees working from home must have a reliable internet connection and
+should use the company-approved VPN when accessing internal systems. 
+Encoder Score:0.0021
+
+
+Reranking Index 4:5 Remote Work Security Policy
+Employees working remotely must connect to company systems using the
+company-approved VPN. Multi-factor authentication must be enabled for all corporate accounts. Employees must not share company credentials with family members or other
+individuals. Sensitive company information must not be stored on personal devices unless
+explicitly approved by the security team. 
+Encoder Score:0.0
+
+Results Count:5
+
+Reranked Output:[
+    {
+        "id": 6,
+        "text": "7 Employee Internet Reimbursement Policy\nThe company does not normally reimburse employees for home internet\nconnections. However, employees in certain approved roles may be eligible for a monthly\ninternet allowance. Eligibility depends on job role, employment agreement, and manager approval. Employees should contact HR to determine whether they qualify for the\ninternet allowance.",
+        "rerank_score": 0.9995497565249051
+    },
+    {
+        "id": 3,
+        "text": "4 Work From Home Internet Requirements\nEmployees working remotely are responsible for maintaining a stable internet\nconnection. The minimum recommended internet speed is 50 Mbps. Employees should use a secure Wi-Fi connection and avoid public Wi-Fi when\naccessing company systems. The company does not generally reimburse employees for their personal\ninternet connection.",
+        "rerank_score": 0.9797559520822026
+    },
+    {
+        "id": 0,
+        "text": "1 Employee Work From Home Policy\nEmployees may work from home up to 2 days per week with manager approval. Employees must remain available during normal working hours from 9:00 AM to\n6:00 PM. Work-from-home requests should be submitted at least one working day in\nadvance through the employee portal. Employees working from home must have a reliable internet connection and\nshould use the company-approved VPN when accessing internal systems.",
+        "rerank_score": 0.0020913410931363624
+    }
+]
