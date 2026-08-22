@@ -1,0 +1,299 @@
+Query:Can I get an internet allowance??
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.7464
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.6982
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.5547
+    },
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.4271
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.3193
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 7.690784454345703
+    },
+    {
+        "id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 7.6780266761779785
+    },
+    {
+        "id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 7.529221534729004
+    }
+]
+
+Query:Who is eligible for internet reimbursement?
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.6476
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.6282
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.6015
+    },
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.5937
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.4278
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 10.330864906311035
+    },
+    {
+        "id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 10.159614562988281
+    },
+    {
+        "id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 10.152827262878418
+    }
+]
+
+Query:Does everyone receive an internet allowance?
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.7429
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.7261
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.6526
+    },
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.5174
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.2959
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 7.581614017486572
+    },
+    {
+        "id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 7.513693809509277
+    },
+    {
+        "id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 7.419821262359619
+    }
+]
+
+Query:Will the company pay for my home WiFi?
+Search Results:[
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.641
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.6151
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.471
+    },
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.4362
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.4063
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 10.304112434387207
+    },
+    {
+        "id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 10.273723602294922
+    },
+    {
+        "id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 9.850081443786621
+    }
+]
+
+Query:What conditions must I satisfy to receive internet support?
+Search Results:[
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.5504
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.5041
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.4704
+    },
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.4308
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.1238
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 9.969725608825684
+    },
+    {
+        "id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 9.965584754943848
+    },
+    {
+        "id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 9.843362808227539
+    }
+]
+
+Query:Is home internet automatically reimbursed for all employees?
+Search Results:[
+    {
+        "doc_id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 0.7779
+    },
+    {
+        "doc_id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 0.7529
+    },
+    {
+        "doc_id": 2,
+        "text": "Employees may receive a monthly internet allowance if\n            they are in an approved role and have manager approval.",
+        "score": 0.6308
+    },
+    {
+        "doc_id": 0,
+        "text": "Employees in certain approved roles may be eligible\n            for a monthly internet allowance. Eligibility depends\n            on job role, employment agreement, and manager approval.",
+        "score": 0.5706
+    },
+    {
+        "doc_id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 0.4888
+    }
+]
+
+query embedding started
+query embedding completed
+
+Reranked Output:[
+    {
+        "id": 1,
+        "text": "The company does not normally reimburse employees for\n            home internet connections.",
+        "score": 12.21910285949707
+    },
+    {
+        "id": 4,
+        "text": "Employees are responsible for their own home internet\n            costs unless specifically approved under the company's\n            internet allowance policy.",
+        "score": 11.95598030090332
+    },
+    {
+        "id": 3,
+        "text": "Employees can claim reimbursement for mobile phone\n            expenses incurred for business purposes.",
+        "score": 11.797469139099121
+    }
+]
